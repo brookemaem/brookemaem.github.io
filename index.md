@@ -4,7 +4,7 @@ This is my home page! My name is Brooke and I am a student at [Cal State Fullert
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/brookemaem/brookemaem.github.io.git
+My GitHub page is https://github.com/brookemaem
 
 ### CPSC 120
 
